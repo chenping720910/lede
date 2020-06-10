@@ -1,9 +1,12 @@
-＃
-＃这是免费软件，可以使用MIT。
-＃ 
+
+＃这是免费软件，可以使用MI
+
 ＃版权所有（C）2019 P3TERX <https://p3terx.com>
-＃版权所有（C）2019 KFERMercer <KFER.Mercer@gmail.com>
-＃ 
+
+＃版权所有（C）2019 KFERMercer <KFER.Mercer@gmail.com
+
+
+
 ＃ <https://github.com/KFERMercer/OpenWrt-CI>
 ＃
 
@@ -89,7 +92,8 @@
           ＃任何您想要对固件进行怎样的定制，都需要且只需要修改EOF回环内的内容。
           ＃ 
           ＃编译x64固件：
-          ＃cat >> .config << EOF
+      
+       
           ＃CONFIG_TARGET_x86 = y
           ＃CONFIG_TARGET_x86_64 = y
           ＃CONFIG_TARGET_x86_64_Generic = y
